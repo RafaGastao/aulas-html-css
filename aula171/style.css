@@ -1,0 +1,16 @@
+div {
+    background: red;
+    width: 140px; /* largura do conteúdo */
+    height: 80px;/* altura do conteúdo */
+    padding: 20px; /* espaço interno */
+    border: 10px solid black; /* borda */
+    margin: 30px; /* espaço externo */
+}
+
+h1 {
+    background: #84e;
+    padding: 20px;
+    border: 4px solid #111;
+    margin: 30px;
+
+}
