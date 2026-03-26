@@ -1,0 +1,42 @@
+[required]{
+    border: 2px solid red;
+}
+
+
+[href="#contato"]{
+    border: 2px solid green;
+}
+
+[href^="#"]{
+   background: red;
+}
+
+/*Com $ e para terminar com algo*/
+[href$="#"]{
+   background: red;
+}
+
+
+
+section > h2{
+    color: tomato;
+}
+
+p{
+    margin: 0px;
+}
+
+article{
+    background: lightgreen;
+    padding: 10px;
+}
+
+p + p{
+    margin-top: 20px;
+}
+
+
+*{
+    border: 2px solid blue;
+}
+
